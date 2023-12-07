@@ -8,7 +8,7 @@
 <!-- Isso é um comentário, não irá aparecer no seu perfil
 (Abaixo você seleciona o curso que você está fazendo no momento) -->
 
-🎓 I am studying [[Full Stack Software Development](https://cubos.academy/cursos/desenvolvimento-de-software-v2) @ [ [Cubos Academy](https://cubos.academy/) ] |[[Control and Automation Engineering]](https://eeng.ufla.br/graduacao/engenharia-controle-automacao-bacharelado)  ] @ [ | [[Universidade Federal de Lavras](https://ufla.br/) ]  ]
+🎓 I am studying [[Full Stack Software Development](https://cubos.academy/cursos/desenvolvimento-de-software-v2) @ [ [Cubos Academy](https://cubos.academy/) ] | [[Control and Automation Engineering]](https://eeng.ufla.br/graduacao/engenharia-controle-automacao-bacharelado)  ] @ [ [[Universidade Federal de Lavras](https://ufla.br/) ]  ]
 
 🔎 I am also curious about history, international relations, geography, and robotics.
 
@@ -50,7 +50,7 @@
 
 <!-- (Aqui você pode adicionar cursos que você já fez) -->
 
-![Automated software testing]
+#Automated software testing
 
 
 ### GitHub Stats ⚡
