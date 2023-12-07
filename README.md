@@ -50,7 +50,7 @@
 
 <!-- (Aqui você pode adicionar cursos que você já fez) -->
 
-#Automated software testing
+*Automated software testing*
 
 
 ### GitHub Stats ⚡
