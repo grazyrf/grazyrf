@@ -8,7 +8,7 @@
 <!-- Isso é um comentário, não irá aparecer no seu perfil
 (Abaixo você seleciona o curso que você está fazendo no momento) -->
 
-🎓 I am studying [[Full Stack Software Development](https://cubos.academy/cursos/desenvolvimento-de-software-v2) @ [ [Cubos Academy](https://cubos.academy/) ]| [Control and Automation Engineering](https://eeng.ufla.br/graduacao/engenharia-controle-automacao-bacharelado) | Outro ] @ [ | [[Universidade Federal de Lavras](https://ufla.br/) ]  ]
+🎓 I am studying [[Full Stack Software Development](https://cubos.academy/cursos/desenvolvimento-de-software-v2) @ [ [Cubos Academy](https://cubos.academy/) ] |[[Control and Automation Engineering]](https://eeng.ufla.br/graduacao/engenharia-controle-automacao-bacharelado)  ] @ [ | [[Universidade Federal de Lavras](https://ufla.br/) ]  ]
 
 🔎 I am also curious about history, international relations, geography, and robotics.
 
@@ -57,6 +57,7 @@
 <div>
 <a href="https://github.com/grazyrf">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grazyrf&layout=compact&langs_count=7&theme=dracula"/>
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=grazyrf&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
